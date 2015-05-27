@@ -1,0 +1,12 @@
+<resources>
+  <color name="mBlack">#000000</color>
+  <color name="mWhite">#FFFFFF</color>
+  <color name="none">#00FFFFFF</color>
+  <color name="alpha0.5">#90000000</color>
+  
+  <color name="name_bulk_color">#8a2be2</color>
+  <color name="password_bulk_color">#6067A0</color>
+  <color name="rember_bulk_color">#000000</color>
+  <color name="repace_bulk_color">#FFd700</color>
+  <color name="login_bulk_color">#b22222</color>
+</resources>

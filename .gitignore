@@ -25,3 +25,7 @@ proguard/
 
 # Log Files
 *.log
+WinMetro/.settings/org.eclipse.core.resources.prefs
+WinMetro/.settings/org.eclipse.jdt.core.prefs
+WinMetro/.classpath
+WinMetro/.project

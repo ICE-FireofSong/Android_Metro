@@ -1,0 +1,29 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 常用风格 -->
+    <!-- 包裹 -->
+    <style name="warp_wh_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <!-- 填充 -->
+    <style name="march_wh_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <!-- 填充宽 -->
+    <style name="march_w_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!-- application and activity theme -->
+    <style name="AppBaseTheme" parent="android:Theme.Light"></style>
+  
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowEnableSplitTouch">false</item>
+        <item name="android:splitMotionEvents">false</item>
+    </style>
+   
+
+</resources>
